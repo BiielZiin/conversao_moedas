@@ -1,17 +1,7 @@
-# Currency converter
+# Conversor de Moedas
 
-This is a currency conversion application developed with Flutter.
-This App uses an external API for real-time conversion from HG Brazil.
+## Descrição do projeto
 
-## Getting Started
+Projeto realizado durante o curso de Analise e Desenvolvimento de sistemas afim de aprendizado da Linguagem Dart utilizando o framework Flutter.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Flutter] (https://flutter.dev/)
